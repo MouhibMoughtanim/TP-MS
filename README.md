@@ -1,4 +1,4 @@
-# TP-MICROSERVICES Repository
+# TP-MS Repository
 
 ## Overview
 
@@ -17,9 +17,6 @@ This repository hosts a microservices architecture featuring key components such
 3. **Car Service:** Responsible for interactions with a MySQL database related to car data.
 4. **Client Service:** Manages interactions with a MySQL database containing client-related data.
 
-## Testing
-
-Chrome DevTools, a widely used web development tool, was employed to ensure the proper functionality of the services.
 
 ## Running the Project
 
@@ -44,4 +41,4 @@ For improved readability of JSON responses, consider downloading a JSON prettify
 - **Debugging:** Simplifies the identification of issues in JSON data.
 - **Documentation:** Facilitates the documentation of API responses for developers.
 
-Enjoy exploring the TP-MICROSERVICES repository! If you encounter any issues or have questions, feel free to reach out.
+Enjoy exploring the TP-MS repository! If you encounter any issues or have questions, feel free to reach out.
