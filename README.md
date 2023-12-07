@@ -12,10 +12,10 @@ This repository hosts a microservices architecture featuring key components such
 
 ## Project Structure
 
-1. **Eureka Server:** Manages service registration and discovery.
-2. **Gateway:** Serves as an entry point for accessing microservices.
-3. **Car Service:** Responsible for interactions with a MySQL database related to car data.
-4. **Client Service:** Manages interactions with a MySQL database containing client-related data.
+1. **Eureka Server:** Manages service registration and discovery. [http://localhost:8761](http://localhost:8761)
+2. **Gateway:** Serves as an entry point for accessing microservices.[http://localhost:8888](http://localhost:8888)
+3. **Car Service:** Responsible for interactions with a MySQL database related to car data.[http://localhost:8089](http://localhost:8089)
+4. **Client Service:** Manages interactions with a MySQL database containing client-related data.[http://localhost:8088](http://localhost:8088)
 
 ## Usage
 
