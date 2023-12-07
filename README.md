@@ -72,5 +72,6 @@ For improved readability of JSON responses, consider downloading a JSON prettify
 - **Readability:** Easily discern the structure and content of JSON responses.
 - **Debugging:** Simplifies the identification of issues in JSON data.
 - **Documentation:** Facilitates the documentation of API responses for developers.
+![WhatsApp Image 2023-12-08 à 00 21 24_e1292abf](https://github.com/MouhibMoughtanim/TP-MS/assets/101598112/92db3b65-aca9-482b-8d44-b1937884e606)
 
 Enjoy exploring the TP-MS repository! If you encounter any issues or have questions, feel free to reach out.
