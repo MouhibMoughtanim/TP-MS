@@ -2,14 +2,13 @@
 
 ## Overview
 
-This repository houses a microservices architecture composed of a Eureka Server, a Gateway, and two services: "Car Service" and "Client Service." The primary purpose of these services is to facilitate communication between each other. "Car Service" manages interactions with a MySQL database containing car-related data, while "Client Service" handles similar interactions for client-related data. The Eureka Server plays a crucial role in service registration and discovery.
+This repository hosts a microservices architecture featuring key components such as an Eureka Server, a Gateway, and two distinct services: "Car Service" and "Client Service." The central objective of these services is to establish seamless communication among themselves. Specifically, the "Car Service" oversees interactions with a MySQL database that stores data related to cars, while the "Client Service" is responsible for similar interactions, managing data associated with clients in another MySQL database. The Eureka Server assumes a pivotal role in the ecosystem, overseeing service registration and discovery processes.
 
 ## Technologies Used
 
 - **Spring Tool Suite**: Integrated development environment for Spring Boot applications.
 - **Java (Spring Boot)**: Framework for building Java-based microservices.
 - **MySQL**: Relational database management system.
-- **Insomnia**: Used for testing the functionality of the services.
 
 ## Project Structure
 
