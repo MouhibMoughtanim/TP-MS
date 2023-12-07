@@ -50,7 +50,7 @@ This repository hosts a microservices architecture featuring key components such
 2. Start the Eureka Server.
 3. Launch the Gateway.
 4. Run the Car Service and Client Service.
-5. Access the Eureka interface to view all launched services.
+5. Access the Eureka interface to view all launched services.[http://localhost:8761](http://localhost:8761)
 
 ## Video Demo
 
