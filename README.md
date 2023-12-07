@@ -17,6 +17,25 @@ This repository hosts a microservices architecture featuring key components such
 3. **Car Service:** Responsible for interactions with a MySQL database related to car data.
 4. **Client Service:** Manages interactions with a MySQL database containing client-related data.
 
+## Usage
+
+### Client Service
+
+- Endpoint: `/clients`
+- API endpoints:
+- - `GET /clients`: Retrieve clients information.
+  - `GET /client/{id}`: Retrieve client information by ID.
+  <!-- Provide additional usage details or examples -->
+
+### Car Service
+
+- Endpoint: `/voitures`
+- API endpoints:
+  - - `GET /voitures`: Retrieve cars information.
+  - `GET /voiture/{id}`: Retrieve car information by ID.
+  - `GET /voiture/{id}`: Retrieve car information by client ID.
+
+
 
 ## Running the Project
 
