@@ -21,7 +21,7 @@ This repository hosts a microservices architecture featuring key components such
 
 ### Client Service
 
-- Endpoint: `/clients`
+
 - API endpoints:
  - `GET /clients`: Retrieve clients information.
   - `GET /client/{id}`: Retrieve client information by ID.
@@ -29,7 +29,6 @@ This repository hosts a microservices architecture featuring key components such
 
 ### Car Service
 
-- Endpoint: `/voitures`
 - API endpoints:
   -  `GET /voitures`: Retrieve cars information.
   - `GET /voiture/{id}`: Retrieve car information by ID.
