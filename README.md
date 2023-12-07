@@ -38,12 +38,19 @@ This repository hosts a microservices architecture featuring key components such
 
 ## Running the Project
 
-Follow these steps to run the microservices:
+### Prerequisites
 
-1. Start the Eureka Server.
-2. Launch the Gateway.
-3. Run the Car Service and Client Service.
-4. Access the Eureka interface to view all launched services.
+- Java SDK
+- MySQL
+- IDE (Eclipse, IntelliJ, etc.)
+
+### Follow these steps to run the microservices:
+
+1. Clone the repository.
+2. Start the Eureka Server.
+3. Launch the Gateway.
+4. Run the Car Service and Client Service.
+5. Access the Eureka interface to view all launched services.
 
 ## Video Demo
 
