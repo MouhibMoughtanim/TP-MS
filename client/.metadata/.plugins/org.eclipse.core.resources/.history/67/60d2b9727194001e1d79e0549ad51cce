@@ -1,0 +1,40 @@
+package org.ENSAJ.ClientService.model;
+
+import jakarta.persistence.*;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import lombok.*;
+
+
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+
+@Getter
+@Setter
+@Entity
+
+public class Client {
+
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	@Column
+	private String nom;
+	@Column
+	private Float age;
+	public Client(String nom, Float age) {
+		
+		this.nom = nom;
+		this.age = age;
+	}
+	
+	
+	
+	
+	
+	
+	
+}
