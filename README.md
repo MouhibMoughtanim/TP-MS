@@ -19,7 +19,7 @@ This repository hosts a microservices architecture featuring key components such
 
 ## Testing
 
-Insomnia, a popular API testing tool, was employed to ensure the proper functionality of the services.
+Chrome DevTools, a widely used web development tool, was employed to ensure the proper functionality of the services.
 
 ## Running the Project
 
