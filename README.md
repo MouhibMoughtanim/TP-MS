@@ -23,7 +23,7 @@ This repository hosts a microservices architecture featuring key components such
 
 
 - API endpoints:
- - `GET /clients`: Retrieve clients information.
+  - `GET /clients`: Retrieve clients information.
   - `GET /client/{id}`: Retrieve client information by ID.
   <!-- Provide additional usage details or examples -->
 
