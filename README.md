@@ -3,6 +3,7 @@
 ## Overview
 
 This repository hosts a microservices architecture featuring key components such as an Eureka Server, a Gateway, and two distinct services: "Car Service" and "Client Service." The central objective of these services is to establish seamless communication among themselves. Specifically, the "Car Service" oversees interactions with a MySQL database that stores data related to cars, while the "Client Service" is responsible for similar interactions, managing data associated with clients in another MySQL database. The Eureka Server assumes a pivotal role in the ecosystem, overseeing service registration and discovery processes.
+![ms-architecture](https://github.com/MouhibMoughtanim/TP-MS/assets/101598112/3978acc4-9fd2-4097-af0a-647c83284d61)
 
 ## Technologies Used
 
